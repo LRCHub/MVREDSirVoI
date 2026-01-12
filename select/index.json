@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GALAXY",
+  "base_artist": "RIP SLYME",
+  "createdAt": "2026-01-12T07:45:10.005881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Galaxy",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/01_Galaxy_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Galaxy",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/02_Galaxy_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Galaxy Of The Lost",
+      "artist": "Lightspeed Champion",
+      "has_synced": true,
+      "path": "select/03_Galaxy_Of_The_Lost_Lightspeed_Champion.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Galaxy Of The Lost",
+      "artist": "Lightspeed Champion",
+      "has_synced": true,
+      "path": "select/04_Galaxy_Of_The_Lost_Lightspeed_Champion.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Into The Galaxy",
+      "artist": "Midnight Juggernauts",
+      "has_synced": true,
+      "path": "select/05_Into_The_Galaxy_Midnight_Juggernauts.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Twilight Galaxy",
+      "artist": "Metric",
+      "has_synced": false,
+      "path": "select/06_Twilight_Galaxy_Metric.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Galaxy",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/07_Galaxy_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Galaxy (Jenia Lubich)",
+      "artist": "Nouvelle Vague",
+      "has_synced": true,
+      "path": "select/08_Galaxy_(Jenia_Lubich)_Nouvelle_Vague.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Anywhere in the Galaxy - Original Version",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/09_Anywhere_in_the_Galaxy_-_Original_Version_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Anywhere in the Galaxy",
+      "artist": "Gamma Ray",
+      "has_synced": false,
+      "path": "select/10_Anywhere_in_the_Galaxy_Gamma_Ray.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Galaxy Anthem",
+      "artist": "ディーヴァ(Vo.八木海莉)",
+      "has_synced": false,
+      "path": "select/11_Galaxy_Anthem_ディーヴァ(Vo.八木海莉).txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Goblin King of the Darkstorm Galaxy",
+      "artist": "Gloryhammer",
+      "has_synced": true,
+      "path": "select/12_Goblin_King_of_the_Darkstorm_Galaxy_Gloryhammer.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Galaxy Paradise",
+      "artist": "Stevie Wonder",
+      "has_synced": false,
+      "path": "select/13_Galaxy_Paradise_Stevie_Wonder.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Galaxy",
+      "artist": "CURVE",
+      "has_synced": false,
+      "path": "select/14_Galaxy_CURVE.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Galaxy of Emptiness",
+      "artist": "Beth Orton feat. Victor Van Vught",
+      "has_synced": false,
+      "path": "select/15_Galaxy_of_Emptiness_Beth_Orton_feat._Victor_Van_Vught.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Galaxy Of Emptiness",
+      "artist": "Beth Orton",
+      "has_synced": false,
+      "path": "select/16_Galaxy_Of_Emptiness_Beth_Orton.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Galaxy Bounce",
+      "artist": "The Chemical Brothers",
+      "has_synced": true,
+      "path": "select/17_Galaxy_Bounce_The_Chemical_Brothers.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Iron Galaxy",
+      "artist": "Cannibal Ox",
+      "has_synced": true,
+      "path": "select/18_Iron_Galaxy_Cannibal_Ox.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GALAXY",
+      "artist": "RIP SLYME",
+      "has_synced": false,
+      "path": "select/pl_01_GALAXY_RIP_SLYME.txt"
+    }
+  ]
+}
